@@ -693,7 +693,7 @@ h3 {
     flex-direction: column;
 }
 .recipe__img__total {
-    background-image: url(../img/time_bg.png);
+    background-image: url(../img/time_bg.jpg);
 }
 .recipe__img__prep,
 .recipe__img__cook {
